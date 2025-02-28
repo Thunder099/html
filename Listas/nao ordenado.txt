@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title>Não ordenado</title>
+	</head>
+
+	<body style="background-color: rgb(240, 240, 200);">
+
+		<h1 style="color: rgb(100, 100, 0)">Não ordenado</h1>
+
+		<a href = "ordenado.html">next</a>
+
+		<ul>
+			<li><img src = "https://tatianamagri.com.br/wp-content/uploads/2018/04/Benef%C3%ADcios-do-abacate-e1522850826321-1-600x300.jpg" width = "170" height = "100"> </li>
+
+			<li> <img src = "https://image.tuasaude.com/media/article/gr/uw/mandioca_57085.jpg?width=686&height=487" width = "170" height = "100"> </li>
+
+			<li> <img src = "https://static.itdg.com.br/images/auto-auto/5391eab33af911d9bad8e95a8b3a57f1/shutterstock-290834552.jpg" width = "170" height = "100"> </li>
+		</ul>
+	</body>
+
+</html>

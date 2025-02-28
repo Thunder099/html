@@ -1,0 +1,25 @@
+<html>
+
+	<head>
+		<title>Ordenado</title>
+	</head>
+
+	<body style = "background-color: rgb(255, 223, 212);">
+
+		<h1 style = "color: rgb(150, 0, 0);">Ordenado</h1>
+
+		<a href = "nao ordenado.html">back</a>
+
+		<ol>
+
+			<a href = "https://www.google.com/search?q=abacate&rlz=1C1ONGR_enBR1146BR1146&oq=abacate&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPDIGCAMQRRg80gEIMTU4MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8" target = "_blank"><li style = "color: rgb(0, 0, 0);">Abacate</li></a>
+
+			<a href = "https://www.google.com/search?sca_esv=e81597737d368c0b&rlz=1C1ONGR_enBR1146BR1146&sxsrf=AHTn8zrAG9AfuKtzGs_-b5Ano5vJXK407g:1740752175469&q=mandioca&source=lnms&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsjfkTCQbVbkeDjnTQtijddBq82CQX-xUBR9s0VVH0Uz4YZWXmkEwVISjw0MO8OaXMx2JzAj9IuE0KTkCuRcqJdZd90stGpYW6N3QRIOH2UhGKoAn5hIq1zP4mRox_2JcJptMsKUEho_SKBP8UmYmP0jtSa0oomD4WdqvbjBCr3IUvbBXUyNBx7fTBph4pTypl_wPujw&sa=X&ved=2ahUKEwjA-b2Yx-aLAxWbQ7gEHXWdK1EQ0pQJegQIFBAB&biw=718&bih=738&dpr=1" target = "_blank"><li style = "color: rgb(0, 0, 0);">Mandioca</li></a>
+
+			<a href = "https://www.google.com/search?sca_esv=e81597737d368c0b&rlz=1C1ONGR_enBR1146BR1146&sxsrf=AHTn8zr-roGC7KSHrK22-XRXu1SKCeehsg:1740752492048&q=ma%C3%A7a+arma&source=lnms&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsjfkTCQbVbkeDjnTQtijddBq82CQX-xUBR9s0VVH0Uz4YZWXmkEwVISjw0MO8OaXM-l0eCf-G3ihZkMhVgjlyXa1RFNhbFOFykhiGsg-TdIgSOHTEbWFX4ZJxeNz-QIzlwT4prP7Pz1lHajNiK88H8GOkQefqOZDBMm7dhKsh5TlWQuKT0U0cm4NS4sBgEEJ67TJ-Tw&sa=X&ved=2ahUKEwivtrivyOaLAxU9rpUCHcgsJO8Q0pQJegQIExAB&biw=718&bih=738&dpr=1" target = "_blank"><li style = "color: rgb(0, 0, 0);">Maça</li></a>
+
+		</ol>	
+
+	</body>
+
+</html>
